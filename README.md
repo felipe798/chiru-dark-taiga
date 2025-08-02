@@ -1,4 +1,4 @@
-# dark-taiga
+# chiru-dark-taiga
 :lipstick: A dark theme for Taiga.io
 
 * dark-taiga on Stylish - https://userstyles.org/styles/174665/dark-taiga-io
